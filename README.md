@@ -1,6 +1,3 @@
 # JavaScript
-Learning Javascript by writing code to test and execute different code snippets 
-
-1. First trying everything on W3Schools website to learn the basics
-https://www.w3schools.com/js/
+Learning Javascript - Project based Learning with the 30 days of Javascript Challenge available at https://javascript30.com/ 
 
